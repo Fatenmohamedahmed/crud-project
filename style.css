@@ -1,0 +1,38 @@
+.form
+{
+    background-color: #eeeeee;
+    
+}
+.h3-size
+{
+    color: #aaa;
+    font-size: 30px;
+    border-bottom: 1px black solid;
+}
+.btn
+{
+    cursor: pointer;
+}
+p
+{
+    color: #aaa;
+    border-top: 1px black solid;
+}
+.td-size
+{
+    font-size: 24px;
+}
+tbody
+{
+    color: #aaa;
+}
+tr
+{
+   background:linear-gradient(#eee , #fff );
+   height: 100px;
+}
+.td-width
+{
+    width: 15%;
+}
+
